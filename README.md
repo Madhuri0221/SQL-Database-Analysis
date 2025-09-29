@@ -12,10 +12,11 @@ Please refer this sample DB: https://downloads.mysql.com/docs/sakila-db.zip
 - Joins (INNER, LEFT, advanced joins)
 - Aggregation and grouping
 - Window functions and CTEs (Common Table Expressions)
+- Case conditions
 - Data analysis and reporting
 
 ## Technologies
-- SQL (MySQL dialect)
+- SQL (Postgresql, Mysql)
 - Sakila sample database
 - Relational database concepts
   
