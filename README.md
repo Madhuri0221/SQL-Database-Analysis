@@ -22,5 +22,5 @@ Please refer this sample DB: https://downloads.mysql.com/docs/sakila-db.zip
   
 ## Results
 - Extracted actionable business insights through complex joins, aggregations, and window functions.
-- Implemented CTEs and recursive queries for modular and optimized analysis.
+- Implemented CTEs for modular and optimized analysis.
 - Strengthened expertise in SQL analytics applicable to real-world database and reporting scenarios.
