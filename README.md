@@ -1,9 +1,11 @@
 # SQL-Database-Analysis
 ## Goal 
-To demonstrate SQL proficiency by designing, querying, and analyzing relational databases using real-world business scenarios and the Sakila sample database.
+To demonstrate SQL proficiency by querying, and analyzing relational databases using real-world business scenarios and the Sakila sample database.
 
 ## Description
-This project contains a comprehensive set of SQL queries and explanations covering database design, constraints, normalization, joins, window functions, and advanced data analysis. The assignment includes table creation with constraints, data integrity enforcement, normalization to 1NF/2NF/3NF, and a wide range of queries for data retrieval, aggregation, and reporting. The queries are written for MySQL and are well-commented for learning and reference.
+This project contains a comprehensive set of SQL queries and explanations covering constraints, joins, window functions, and advanced data analysis. Also includes a wide range of queries for data retrieval, aggregation, and reporting. The queries are written for Postgresql and MySQL are well-commented for learning and reference.
+
+Please refer this sample DB: https://downloads.mysql.com/docs/sakila-db.zip
 
 ## Skills
 - Writing complex SELECT queries
