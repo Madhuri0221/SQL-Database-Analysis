@@ -1,26 +1,27 @@
-# SQL-Database-Analysis
-## Goal 
-To demonstrate SQL proficiency by querying, and analyzing relational databases using real-world business scenarios and the Sakila sample database.
+# SQL Business Analysis using Sakila Database
+## Problem
+Analyse a relational database to answer business questions related to customer behaviour, inventory usage, revenue patterns, and operational performance using SQL.
 
-## Description
-This project contains a comprehensive set of SQL queries and explanations covering constraints, joins, window functions, and advanced data analysis. Also includes a wide range of queries for data retrieval, aggregation, and reporting. The queries are written for Postgresql and MySQL are well-commented for learning and reference.
+## Data
+Sakila sample database containing normalized tables for customers, rentals, payments, inventory, films, categories, and stores.
 
-Please refer this sample DB: https://downloads.mysql.com/docs/sakila-db.zip
+## Analysis & KPIs
+Customer rental frequency and revenue contribution
+Film and category-level performance
+Store-wise revenue and transaction trends
+Time-based analysis using rental and payment dates
 
-## Skills
-- Writing complex SELECT queries
-- Joins (INNER, LEFT, advanced joins)
-- Aggregation and grouping
-- Window functions and CTEs (Common Table Expressions)
-- Case conditions
-- Data analysis and reporting
+## SQL Techniques Used
+Multi-table joins (INNER, LEFT)
+Aggregations and grouping
+Window functions
+Common Table Expressions (CTEs)
+CASE conditions for business logic
 
-## Technologies
-- SQL (Postgresql, Mysql)
-- Sakila sample database
-- Relational database concepts
-  
-## Results
-- Extracted actionable business insights through complex joins, aggregations, and window functions.
-- Implemented CTEs for modular and optimized analysis.
-- Strengthened expertise in SQL analytics applicable to real-world database and reporting scenarios.
+## Outcome
+Derived customer and category-level insights through complex joins and aggregations.
+Built reusable and readable SQL logic using CTEs and window functions.
+Demonstrated ability to translate raw relational data into structured business insights.
+
+## Tools
+SQL (PostgreSQL / MySQL), Sakila Sample Database
